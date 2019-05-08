@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557353351 source:d:\users\derex\documents\codeblocks\winsockextractipfromurl\main.cpp
+	<winsock2.h>
+	<windows.h>
+	<iostream>
+
